@@ -6,9 +6,9 @@
 int main (void) { //Funcion principall.
     printf("======================================\n");
     printf("Instituto Nacional de Aprendizaje\n");
-    printf("Módulo: CSTI12010 Diseño DE Algoritmos\n");
+    printf("Modulo: CSTI12010 Diseno DE Algoritmos\n");
     printf("Unidad 2: Programación estructurada\n");
-    printf("\tSesión 16\n"); //t Muestra texto con asngria
+    printf("\tSesion 16\n"); //t Muestra texto con asngria
     printf("Lenguaje \"C\" | Compilador: gcc\n"); //Muestra comillas
     printf("\tFacilitador: DayaSJ\n");
     printf("======================================\n");
