@@ -2,7 +2,7 @@
 
 # 📘 Portafolio de Evidencias
 
-### Nombre Completo de la Persona Estudiante
+### Dayanna Sanchez Jimenez
 
 **CSTI12010 · Diseño de algoritmos** · Instituto Nacional de Aprendizaje
 
@@ -207,7 +207,7 @@ _(Completar conforme avanza el módulo. Ejemplos de lo que corresponde anotar aq
 
 <div align="center">
 
-**Nombre Completo** · @usuario-de-github
+**Dayanna Sanchez Jimenez** · @Daya2898-de-github
 
 Portafolio elaborado durante el módulo CSTI12010 · Instituto Nacional de Aprendizaje · 2026
 
