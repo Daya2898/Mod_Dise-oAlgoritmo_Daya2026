@@ -112,7 +112,7 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 |   S15   | Control de versiones con git y GitHub        |             |               [ver](UA2/S15/)                |   ⬜   |
 |   S16   | Formato de un programa en C y compilación    |             |               [ver](UA2/S16/)                |   ⬜   |
 |   S17   | Variables, constantes y entrada/salida       |             |               [ver](UA2/S17/)                |   ⬜   |
-|   S18   | Operadores, casting e if … else              |             |               [ver](UA2/S18/)                |   ⬜   |
+|   S18   | Operadores, casting e if … else              | Aprendí a aplicar estructuras condicionales múltiples (if-else if-else) y operadores lógicos para validar rangos de datos y formatear salidas decimales en C.            |               [ver](UA2/S18/S18nota.c.png)                |   ⬜   |
 |   S19   | Ciclos y switch                              |             |               [ver](UA2/S19/)                |   ⬜   |
 |   S20   | Arreglos, matrices y cadenas                 |             |               [ver](UA2/S20/)                |   ⬜   |
 |   S21   | Funciones                                    |             |               [ver](UA2/S21/)                |   ⬜   |
