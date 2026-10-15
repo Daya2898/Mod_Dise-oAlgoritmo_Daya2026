@@ -2,6 +2,7 @@
 Cualquier otro numero es voto nulo. Al final se muestra una barra de *- con los votos del a*/
 
 #include <stdio.h> //printf y scanf
+#include <stdlib.h>//funciones del sistema
 #define FIN 0 //se define e inicializa constante
 
 int main(void){//funcion principal
@@ -92,6 +93,7 @@ int main(void){//funcion principal
         printf("Gana Sofia con %d votos\n", mayor);
 
    
+        system("pause");
   
     return 0; //fin normal del programa
 }
