@@ -19,7 +19,7 @@ const double TASA_RETENCION = 0.02;  // 2 % de (comision + bono)
 const double BONO           = 50.0;  // bono fijo si se supera el limite 
 const double LIMITE_BONO    = 2000.0; // ventas minimas (exclusivo) para el bono 
  
-int main(void)
+int main(void){
 
     char nombre[50];            // nombre del vendedor 
     char etiqueta[20];          // texto "Semana N:" para imprimir 
@@ -33,7 +33,7 @@ int main(void)
  
     printf("=== Pago del vendedor ===\n");
  
-    /* Lectura del nombre */
+    //Lectura del nombre 
     printf("Nombre del vendedor: ");
     fgets(nombre, sizeof(nombre), stdin);
     nombre[strcspn(nombre, "\n")] = '\0';   // quita el salto de linea 
