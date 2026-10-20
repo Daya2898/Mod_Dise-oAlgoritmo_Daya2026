@@ -8,11 +8,11 @@
 
 | Datos de entrada | Proceso | Datos de salida | Limitaciones |
 |---|---|---|---|
-|  |  |  |  |
+| char_nombreCompleto del empleado.<br> double_numero_salario bruto. | strlen_validadcion nombre no este vacio <br> validacion mediante do_while salario >0.<br>calculo deducciones CAJA 9.5%, IESS 2.5%. <br> Condicional aplicar impuesto de renta de(10%) si el salario bruto es mayor a 800.<br> Determinacion salario neto - las deducciones bruto. |Nombre del empleado.<br>• Salario bruto con dos decimales.<br>• Monto individual cada descuento CAJA, IESS, Renta.<br>• Salario neto final. |El nombre no puede superar los 59 caracteres.<br>• El salario debe ser numérico y mayor a cero.|
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](captura_p.png)
+![Ejecución](captura_p1.png)
 
 ## Problema 2 · Calificaciones (AC2_P2_Calificaciones.c)
 
