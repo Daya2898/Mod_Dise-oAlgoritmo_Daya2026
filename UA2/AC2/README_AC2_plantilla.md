@@ -28,12 +28,18 @@
 
 | Datos de entrada | Proceso | Datos de salida | Limitaciones |
 |---|---|---|---|
-|  |  |  |  |
+| Nombre del cliente, nombre de producto, precio unitario, cantidad y opción de continuar (S/N). |Registro mediante arreglos paralelos.<br> Validación de datos positivos con do...while.<br> Cálculo de subtotales y aplicación de descuentos por rangos.<br> Cálculo de impuesto del 13% y total a pagar. |Factura detallada con listado de productos, subtotal, descuento, impuesto y total final. | Máximo de 10 productos por compra.<br> Precios y cantidades  mayores a cero. |
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](captura_p.png)
+![Ejecución](captura_p3.png)
 
 ## Conclusión
 
 (Qué aprendí y qué fue lo más difícil de pasar de PSeInt a C.)
+
+¿Qué aprendí? A traducir algoritmos a C (variables, arreglos y cadenas) organizando el tiempo por fases y usando gcc (-Wall -Wextra) para verificar errores de forma efectiva.
+
+¿Qué fue lo más difícil? Adaptarme a la sintaxis estricta, evitar confusiones entre = y ==, y dominar el búfer de entrada con scanf y fgets.
+
+Próximos pasos: Seguir aprendiendo mas los temas avanzados y seguir cumpliendo correctamente.
