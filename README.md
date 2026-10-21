@@ -117,7 +117,7 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 |   S20   | Arreglos, matrices y cadenas                 | Aprendí a utilizar arreglos paralelos, matrices y manipulación de cadenas de texto en lenguaje C para la resolución de problemas prácticos.            |               [ver](UA2/S20/S20.png)               |   ✅   |
 |   S21   | Funciones                                    |             |               [ver](UA2/S21/)                |   ⬜   |
 |   S22   | Paso de parámetros por valor y por dirección |             |               [ver](UA2/S22/)                |   ⬜   |
-| S23–S24 | **Actividad de comprobación 2**              | Aprendí a integrar y aplicar todos los conceptos vistos en clase (validaciones con do-while, manejo de cadenas, arreglos paralelos y control de errores con gcc), evaluando los aspectos a mejorar para fortalecer el sustento técnico en la materia.Mi primer intento | [ver](actividades/A2_Mi_primera_aplicacion/UA2/S23/1°intento.png) |   🟡   |
+| S23–S24 | **Actividad de comprobación 2**              | Aprendí a integrar y aplicar todos los conceptos vistos en clase (validaciones con do-while, manejo de cadenas, arreglos paralelos y control de errores con gcc), evaluando los aspectos a mejorar para fortalecer el sustento técnico en la materia.Mi primer intento | [ver](UA2/S23/1°intento.png) |   🟡   |
 
 </details>
 
