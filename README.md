@@ -87,7 +87,7 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 
 | Sesión | Tema                                              | Qué aprendí                            |                Evidencia                 | Estado |
 | :----: | :------------------------------------------------ | :------------------------------------- | :--------------------------------------: | :----: |
-|  S01   | Lógica computacional, compilador e intérprete     | _(escribir aquí con palabras propias)_ |             [ver](UA1/S01/)              |   ⬜   |
+|  S01   | Lógica computacional, compilador e intérprete     | Vimos una introducción sobre el modulo nuevo  y un poco bootstrap como tambien un analisis diagnostico sobre diseño algoritmoy un test de pensamiento computacioneal|        [ver](UA1/S01.png)              |   ✅   |
 |  S02   | Algoritmos y pseudocódigo                         |                                        |             [ver](UA1/S02/)              |   ⬜   |
 |  S03   | Lenguajes de alto y bajo nivel                    |                                        |             [ver](UA1/S03/)              |   ⬜   |
 |  S04   | Metodología de solución de problemas              |                                        |             [ver](UA1/S04/)              |   ⬜   |
