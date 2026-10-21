@@ -110,14 +110,14 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 | :-----: | :------------------------------------------- | :---------- | :------------------------------------------: | :----: |
 |   S14   | Sistemas numéricos                           | Aprendi teoria sobre sistema numerico,con practica de conversion y configuracion de MincGWCompilador            |               [ver](UA2/S14/S14.png)                |   ✅   |
 |   S15   | Control de versiones con git y GitHub        | Creamos repositorio           |               [ver](UA2/S15/S15.png)                |   ✅   |
-|   S16   | Formato de un programa en C y compilación    |             |               [ver](UA2/S16/)                |   ⬜   |
-|   S17   | Variables, constantes y entrada/salida       |             |               [ver](UA2/S17/)                |   ⬜   |
+|   S16   | Formato de un programa en C y compilación    | Aprendi conceptos sobre anatomia de un programa en c, como sus reglas y procesos que lleva, realizamos varias practicas   como escribir, compilar y corregir en C  |               [ver](UA2/S16/S16.png)                |   ✅   |
+|   S17   | Variables, constantes y entrada/salida       | Aprendi conceptos sobre variables en C, como tipos de datos, saber cuando usar #define y const , y tambien recuento caractes de salida aplicandolo en la practica lo visto.   |               [ver](UA2/S17/S17.png)                |  ✅  |
 |   S18   | Operadores, casting e if … else              | Aprendí a aplicar estructuras condicionales múltiples (if-else if-else) y operadores lógicos para validar rangos de datos y formatear salidas decimales en C.            |               [ver](UA2/S18/S18nota.c.png)                |   ✅   |
 |   S19   | Ciclos y switch                              | Apredi sobre ciclo while y do while y switch  / El error que más me costó encontrar y entender fue el uso del casting a `float` en la división del promedio (`(float)suma / DIAS`), ya que las variables enteras truncaban los decimales. Asimismo, me costó identificar la relación lógica entre el ciclo `do-while`, la corrección del límite del ciclo `for` (`i <= DIAS`) y el cambio necesario para usar directamente la variable `i` en lugar de `i + 1`.           |               [ver](UA2/S19/S19.png)                |   ✅   |
-|   S20   | Arreglos, matrices y cadenas                 | Aprendí a utilizar arreglos paralelos, matrices y manipulación de cadenas de texto en lenguaje C para la resolución de problemas prácticos.            |               [ver](UA2/S20/S20.png)                |   ⬜   |
+|   S20   | Arreglos, matrices y cadenas                 | Aprendí a utilizar arreglos paralelos, matrices y manipulación de cadenas de texto en lenguaje C para la resolución de problemas prácticos.            |               [ver](UA2/S20/S20.png)               |   ✅   |
 |   S21   | Funciones                                    |             |               [ver](UA2/S21/)                |   ⬜   |
 |   S22   | Paso de parámetros por valor y por dirección |             |               [ver](UA2/S22/)                |   ⬜   |
-| S23–S24 | **Actividad de comprobación 2**              |             | [ver](actividades/A2_Mi_primera_aplicacion/) |   ⬜   |
+| S23–S24 | **Actividad de comprobación 2**              | Aprendí a integrar y aplicar todos los conceptos vistos en clase (validaciones con do-while, manejo de cadenas, arreglos paralelos y control de errores con gcc), evaluando los aspectos a mejorar para fortalecer el sustento técnico en la materia.Mi primer intento | [ver](actividades/A2_Mi_primera_aplicacion/UA2/S23/1°intento.png) |   🟡   |
 
 </details>
 
