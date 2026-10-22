@@ -1,5 +1,9 @@
 //AC2_P1_nOMINA.C - SISTEMA DE CALCULO NOMINA
-
+/*Cálculo de nómina y salario neto.
+ Qué se logra: Procesar salario bruto, aplicar deducciones y calcular el neto.
+ Cómo se logra: Con validaciones, estructura if-else y formato con dos decimales.
+ Resultado esperado: Salario neto correcto (ejemplo: Maria Lopez con 1000 da 780.00).
+ */
 #include <stdio.h>
 #include <string.h>
  

@@ -1,4 +1,9 @@
 //C2_P3_Compras.c - Gestión de compras en una tienda
+/*Sistema de gestión de compras para una tienda de electrónica.
+Enunciado: Sistema de gestión de compras y factura detallada.
+Qué se logra: Registrar productos, calcular subtotales, descuentos y el total a pagar.
+Cómo se logra: Usando arreglos paralelos, validaciones do-while y formato de factura.
+Resultado esperado: Factura alineada con productos, subtotales, descuento, impuesto y total final.*/
 
 #include <stdio.h>
 #include <string.h>
@@ -100,7 +105,7 @@ int main(void) {
     } while ((continuar == 'S' || continuar == 's') && numProductos < MAX_PRODUCTOS);
 
     // APLICA DESCUENTO SEGUN TOTAL ACUMULADO 
-        if (subtotalGeneral >= LIMITE_DESC_3) {
+        if (subtotalGeneral > LIMITE_DESC_3) {
             porcentajeDescuentoAplicado = TASA_DESC_3;
         } else if (subtotalGeneral >= LIMITE_DESC_2) {
             porcentajeDescuentoAplicado = TASA_DESC_2;

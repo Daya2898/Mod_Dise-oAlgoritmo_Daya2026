@@ -1,4 +1,9 @@
 //AC2_P2_CALIFICACIONES.C - VALIDACION DE CALIFICACIONES ESTUDIANTILES
+/*Enunciado: Registro y evaluación de calificaciones.
+Qué se logra: Calcular el promedio de notas y determinar estado de aprobación.
+Cómo se logra: Usando arreglos, un ciclo for y condiciones if-else.
+Resultado esperado: Promedio y estado correcto (ejemplo: 75, 82, 68 da promedio 75.00, APROBADO).
+ */
 
 #include<stdio.h>
 #include<string.h>
