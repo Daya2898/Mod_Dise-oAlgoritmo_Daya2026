@@ -87,11 +87,11 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 
 | Sesión | Tema                                              | Qué aprendí                            |                Evidencia                 | Estado |
 | :----: | :------------------------------------------------ | :------------------------------------- | :--------------------------------------: | :----: |
-|  S01   | Lógica computacional, compilador e intérprete     | Vimos una introducción sobre el modulo nuevo  y un poco bootstrap como tambien un analisis diagnostico sobre diseño algoritmoy un test de pensamiento computacioneal|        [ver](UA1/S01.png)              |   ✅   |
-|  S02   | Algoritmos y pseudocódigo                         |                                        |             [ver](UA1/S02/)              |   ⬜   |
-|  S03   | Lenguajes de alto y bajo nivel                    |                                        |             [ver](UA1/S03/)              |   ⬜   |
-|  S04   | Metodología de solución de problemas              |                                        |             [ver](UA1/S04/)              |   ⬜   |
-|  S05   | Entrada, proceso, salida y tipos de datos         |                                        |             [ver](UA1/S05/)              |   ⬜   |
+|  S01   | Lógica computacional, compilador e intérprete     | Conocí los contenidos del nuevo módulo y repasamos algunos aspectos de Bootstrap. También realicé un diagnóstico sobre diseño de algoritmos y una prueba de pensamiento computacional.|        [ver](UA1/S01.png)              |   ✅   |
+|  S02   | Algoritmos y pseudocódigo                         |   Aprendí sobre los tipos de datos y las operaciones, y cómo identificarlos según su función. Además, repasamos los conceptos de la rejilla de la sesión S33.   |             [ver](UA1/S02.png)              |   ✅   |
+|  S03   | Lenguajes de alto y bajo nivel                    | Aprendí conceptos sobre técnicas para diseñar algoritmos, así como los pasos y la estructura necesarios para elaborarlos. |             [ver](UA1/S03.png)              |   ✅  |
+|  S04   | Metodología de solución de problemas              | Aprendí conceptos y distintas formas de organizar y estructurar soluciones a un problema. También apliqué estos conocimientos en una práctica.                           |             [ver](UA1/S04.png)              |   ✅   |
+|  S05   | Entrada, proceso, salida y tipos de datos         |   Aprendí conceptos para utilizar ciclos de repetición, como Mientras y Repetir, y estructuras de decisión, como Si–Entonces–Sino. Apliqué estos conceptos en una práctica en PSeInt.                                   |             [ver](UA1/S05.png)              |   ✅   |
 |  S06   | Constantes, variables y expresiones               |                                        |             [ver](UA1/S06/)              |   ⬜   |
 |  S07   | Contadores y acumuladores                         |                                        |             [ver](UA1/S07/)              |   ⬜   |
 |  S08   | Expresiones aritméticas, relacionales y lógicas   |                                        |             [ver](UA1/S08/)              |   ⬜   |
