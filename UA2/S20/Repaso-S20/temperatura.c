@@ -5,6 +5,7 @@ calcular el promedio
 identificar el dia mas caluroso y contar cuantos dias superan ese promedio*/
 
 #include <stdio.h>
+#include <string.h>
 
 
 
